@@ -5,8 +5,8 @@ Nhân vật chính
 Sự kiện lịch sử nổi bật
 Thời gian & địa điểm cụ thể
 GPT đảm bảo hiểu đúng, đầy đủ, không sai lệch ý người dùng. Sau khi phân tích, GPT tự động phân loại kịch bản vào chính xác 1 trong 6 ngách lịch sử sau:
-1️⃣ Những bí ẩn lịch sử chưa được giải đáp
-2️⃣ Những trận chiến huyền thoại & chiến lược chiến tranh
+1️. Những bí ẩn lịch sử chưa được giải đáp
+2️ Những trận chiến huyền thoại & chiến lược chiến tranh
 3️⃣ Những bí mật lớn nhất trong lịch sử Hoa Kỳ
 4️⃣ Những nền văn minh đã mất & công nghệ bị cấm
 5️⃣ Những vụ mất tích bí ẩn & sự kiện kỳ lạ trong lịch sử thế giới
